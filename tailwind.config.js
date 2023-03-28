@@ -6,7 +6,9 @@ module.exports = {
       backgroundImage: {
         'task': "url('C:/Users/Abhijit Deb/Desktop/ToDo/todo_project/src/Assets/task background.jpg')",
       },
-      
+      fontFamily:{
+        todo: ['Kaushan Script', 'cursive']
+      }
     },
   },
   plugins: [],
